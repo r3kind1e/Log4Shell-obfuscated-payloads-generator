@@ -1,0 +1,21 @@
+# Secondary Obfuscated Uppercase Template
+{{uppercase}}
+${::-{{uppercase}}}
+${{{k_lookup}}{{8_lookup}}{{s_lookup}}:{{random_variable}}:-{{uppercase}}}
+${{{e_lookup}}{{n_lookup}}{{v_lookup}}:{{random_variable}}:-{{uppercase}}}
+${{{c_lookup}}{{t_lookup}}{{x_lookup}}:{{random_variable}}:-{{uppercase}}}
+${{{m_lookup}}{{a_lookup}}{{i_lookup}}{{n_lookup}}:{{main_argument_key}}:-{{uppercase}}}
+${{{m_lookup}}{{a_lookup}}{{i_lookup}}{{n_lookup}}:{{random_variable}}:-{{uppercase}}}
+${{{m_lookup}}{{a_lookup}}{{p_lookup}}:{{random_variable}}:-{{uppercase}}}
+${{{s_lookup}}{{d_lookup}}:{{random_variable}}:-{{uppercase}}}
+${{{s_lookup}}{{y_lookup}}{{s_lookup}}:{{random_variable}}:-{{uppercase}}}
+${{{w_lookup}}{{e_lookup}}{{b_lookup}}:{{random_variable}}:-{{uppercase}}}
+${{{d_lookup}}{{o_lookup}}{{c_lookup}}{{k_lookup}}{{e_lookup}}{{r_lookup}}:{{random_variable}}:-{{uppercase}}}
+${{{e_lookup}}{{v_lookup}}{{e_lookup}}{{n_lookup}}{{t_lookup}}:{{random_variable}}:-{{uppercase}}}
+${{{l_lookup}}{{o_lookup}}{{g_lookup}}{{4_lookup}}{{j_lookup}}:{{random_variable}}:-{{uppercase}}}
+${{{m_lookup}}{{a_lookup}}{{r_lookup}}{{k_lookup}}{{e_lookup}}{{r_lookup}}:{{random_variable}}:-{{uppercase}}}
+${{{s_lookup}}{{p_lookup}}{{r_lookup}}{{i_lookup}}{{n_lookup}}{{g_lookup}}:{{random_variable}}:-{{uppercase}}}
+${{{u_lookup}}{{p_lookup}}{{p_lookup}}{{e_lookup}}{{r_lookup}}:{{uppercase}}}
+${{{u_lookup}}{{p_lookup}}{{p_lookup}}{{e_lookup}}{{r_lookup}}:{{lowercase}}}
+${:-{{uppercase}}}
+${{{random_lookup}}:{{random_variable}}:-{{uppercase}}}

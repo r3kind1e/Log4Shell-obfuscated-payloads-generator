@@ -1,0 +1,21 @@
+# Primary Obfuscated Uppercase Template
+{{uppercase}}
+${::-{{uppercase}}}
+${k8s:{{random_variable}}:-{{uppercase}}}
+${env:{{random_variable}}:-{{uppercase}}}
+${ctx:{{random_variable}}:-{{uppercase}}}
+${main:{{main_argument_key}}:-{{uppercase}}}
+${main:{{random_variable}}:-{{uppercase}}}
+${map:{{random_variable}}:-{{uppercase}}}
+${sd:{{random_variable}}:-{{uppercase}}}
+${sys:{{random_variable}}:-{{uppercase}}}
+${web:{{random_variable}}:-{{uppercase}}}
+${docker:{{random_variable}}:-{{uppercase}}}
+${event:{{random_variable}}:-{{uppercase}}}
+${log4j:{{random_variable}}:-{{uppercase}}}
+${marker:{{random_variable}}:-{{uppercase}}}
+${spring:{{random_variable}}:-{{uppercase}}}
+${upper:{{uppercase}}}
+${upper:{{lowercase}}}
+${:-{{uppercase}}}
+${{{random_lookup}}:{{random_variable}}:-{{uppercase}}}

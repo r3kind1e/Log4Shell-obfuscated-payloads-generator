@@ -1,0 +1,21 @@
+# Primary Obfuscated Colon Template
+:
+${::-:}
+${lower::}
+${k8s:{{random_variable}}:-:}
+${env:{{random_variable}}:-:}
+${ctx:{{random_variable}}:-:}
+${main:{{main_argument_key}}:-:}
+${main:{{random_variable}}:-:}
+${map:{{random_variable}}:-:}
+${sd:{{random_variable}}:-:}
+${sys:{{random_variable}}:-:}
+${web:{{random_variable}}:-:}
+${docker:{{random_variable}}:-:}
+${event:{{random_variable}}:-:}
+${log4j:{{random_variable}}:-:}
+${marker:{{random_variable}}:-:}
+${spring:{{random_variable}}:-:}
+${upper::}
+${:-:}
+${{{random_lookup}}:{{random_variable}}:-:}

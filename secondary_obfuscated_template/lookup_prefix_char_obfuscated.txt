@@ -1,0 +1,9 @@
+# Unprefixed Lookup template that replaces the Lookup prefix
+${{{random_lookup}}:{{random_variable}}:-{{uppercase}}}
+${{{random_lookup}}:{{random_variable}}:-{{lowercase}}}
+${:-{{uppercase}}}
+${:-{{lowercase}}}
+${::-{{uppercase}}}
+${::-{{lowercase}}}
+{{uppercase}}
+{{lowercase}}
