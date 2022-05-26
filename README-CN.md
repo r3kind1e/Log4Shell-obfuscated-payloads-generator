@@ -1,6 +1,8 @@
 # Log4Shell-obfuscated-payloads-generator
 Log4Shell-obfuscated-payloads-generator可以生成初级混淆的或二级混淆的CVE-2021-44228或CVE-2021-45046 payloads，以规避WAF检测。
 
+[Log4Shell-obfuscated-payloads-generator的设计思想](https://r3kind1e.github.io/2022/05/26/Log4Shell-obfuscated-payloads-generator/)
+
 ## 安装
 ```
 git clone https://github.com/r3kind1e/Log4Shell-obfuscated-payloads-generator.git

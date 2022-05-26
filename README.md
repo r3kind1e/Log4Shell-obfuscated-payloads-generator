@@ -1,6 +1,8 @@
 # Log4Shell-obfuscated-payloads-generator
 Log4Shell-obfuscated-payloads-generator can generate primary obfuscated or secondary obfuscated CVE-2021-44228 or CVE-2021-45046 payloads to evade WAF detection.
 
+[The design idea of ​​Log4Shell-obfuscated-payloads-generator](https://r3kind1e.github.io/2022/05/26/Log4Shell-obfuscated-payloads-generator/)
+
 ## Installation
 ```
 git clone https://github.com/r3kind1e/Log4Shell-obfuscated-payloads-generator.git
@@ -66,5 +68,3 @@ Without specifying a malicious server with the `-s` option, the `{{callback_host
 --generate-primary-obfuscated-cve-2021-45046-payload 3 --generate-secondary-obfuscated-cve-2021-45046-payload 7
 ```
 ![primary45046secondary45046](img/primary45046secondary45046.png)
-
-**TODO: The design idea of ​​Log4Shell-obfuscated-payloads-generator will be released after May 20th.**
