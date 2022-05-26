@@ -68,5 +68,3 @@ python3 Log4Shell-obfuscated-payloads-generator.py -hh
 --generate-primary-obfuscated-cve-2021-45046-payload 3 --generate-secondary-obfuscated-cve-2021-45046-payload 7
 ```
 ![primary45046secondary45046](img/primary45046secondary45046.png)
-
-**TODO: Log4Shell-obfuscated-payloads-generator的设计思路将在5月20日之后发布。**
